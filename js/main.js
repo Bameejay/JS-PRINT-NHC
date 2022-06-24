@@ -6,4 +6,4 @@ const myCountryofOrigin = 'Nigeria'
 // document.write(`My name is ${myName} and I am ${myHight} meters tall. I am from ${myCountryofOrigin}`)
 alert(`My name is ${myName} and I am ${myHight} meters tall. I am from ${myCountryofOrigin}`)
 
-// console.log(`My name is ${myName} and I am ${myHight} meters tall. I am from ${myCountryofOrigin}`)
+console.log(`My name is ${myName} and I am ${myHight} meters tall. I am from ${myCountryofOrigin}`)
